@@ -1,0 +1,12 @@
+/Users/dogucemdogan/Documents/dotnetProject/bin/Debug/netcoreapp3.1/dotnetProject.deps.json
+/Users/dogucemdogan/Documents/dotnetProject/bin/Debug/netcoreapp3.1/dotnetProject.runtimeconfig.json
+/Users/dogucemdogan/Documents/dotnetProject/bin/Debug/netcoreapp3.1/dotnetProject.runtimeconfig.dev.json
+/Users/dogucemdogan/Documents/dotnetProject/bin/Debug/netcoreapp3.1/dotnetProject.dll
+/Users/dogucemdogan/Documents/dotnetProject/bin/Debug/netcoreapp3.1/dotnetProject.pdb
+/Users/dogucemdogan/Documents/dotnetProject/obj/Debug/netcoreapp3.1/dotnetProject.csprojAssemblyReference.cache
+/Users/dogucemdogan/Documents/dotnetProject/obj/Debug/netcoreapp3.1/dotnetProject.AssemblyInfoInputs.cache
+/Users/dogucemdogan/Documents/dotnetProject/obj/Debug/netcoreapp3.1/dotnetProject.AssemblyInfo.cs
+/Users/dogucemdogan/Documents/dotnetProject/obj/Debug/netcoreapp3.1/dotnetProject.csproj.CoreCompileInputs.cache
+/Users/dogucemdogan/Documents/dotnetProject/obj/Debug/netcoreapp3.1/dotnetProject.dll
+/Users/dogucemdogan/Documents/dotnetProject/obj/Debug/netcoreapp3.1/dotnetProject.pdb
+/Users/dogucemdogan/Documents/dotnetProject/obj/Debug/netcoreapp3.1/dotnetProject.genruntimeconfig.cache
